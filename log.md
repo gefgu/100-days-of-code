@@ -16,11 +16,23 @@
 
 **Today's Progress**:
 - Review Javascript using this [amazing cheatsheet from CodeAcademy](https://www.codecademy.com/learn/paths/introduction-to-javascript/tracks/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) and this other [cheatsheet](https://www.codecademy.com/learn/learn-intermediate-javascript/modules/learn-javascript-classes/cheatsheet) (also from CodeAcademy).
-- [Javascript30](https://javascript30.com/) First Challenge: Javascript Drum Kit
+- [JavaScript30](https://javascript30.com/) First Challenge: Javascript Drum Kit
 
 **Thoughts**:
-- [Javascript30](https://javascript30.com/) is a great resource to learn.
+- [JavaScript30](https://javascript30.com/) is a great resource to learn.
   - I really liked the part where he showed best practices.
 
 **Link(s) to work**:
-https://github.com/gefgu/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/index-START.html
+https://gefgu.github.io/JavaScript30/ - JavaSCript Drum Kit
+
+### Day 2: January 2st, 2022
+
+**Today's Progress**:
+- [JavaScript30](https://javascript30.com/) Second Challenge: CSS + JS Clock.
+- Created a simple page to show my solutions of the JavaScript30.
+
+**Thoughts**: 
+It is nice to have my solutions live on the web.
+
+**Link(s) to work**:
+https://gefgu.github.io/JavaScript30/
