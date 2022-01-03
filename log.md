@@ -25,7 +25,7 @@
 **Link(s) to work**:
 https://gefgu.github.io/JavaScript30/ - JavaSCript Drum Kit
 
-### Day 2: January 2st, 2022
+### Day 2: January 2nd, 2022
 
 **Today's Progress**:
 - [JavaScript30](https://javascript30.com/) Second Challenge: CSS + JS Clock.
@@ -33,6 +33,20 @@ https://gefgu.github.io/JavaScript30/ - JavaSCript Drum Kit
 
 **Thoughts**: 
 It is nice to have my solutions live on the web.
+
+**Link(s) to work**:
+https://gefgu.github.io/JavaScript30/
+
+### Day 3: January 3rd, 2022
+
+**Today's Progress**:
+- 2hrs 3mins of code according to WakaTime.
+- [JavaScript30](https://javascript30.com/) 3rd challenge: Playing With CSS Variables and JS.
+- [JavaScript30](https://javascript30.com/) 4th challenge: Array Cardio Day 1.
+
+**Thoughts**: 
+WakaTime is a great accountability buddy.
+
 
 **Link(s) to work**:
 https://gefgu.github.io/JavaScript30/
