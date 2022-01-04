@@ -50,3 +50,18 @@ WakaTime is a great accountability buddy.
 
 **Link(s) to work**:
 https://gefgu.github.io/JavaScript30/
+
+
+### Day 4: January 4th, 2022
+
+**Today's Progress**:
+- 1hr 59mins of code according to WakaTime.
+- [JavaScript30](https://javascript30.com/) 5th challenge: Flex Panels Image Gallery.
+
+**Thoughts**: 
+- Today I learned that when I want to toggle a class of an element, I can use `element.classList.toggle("className");` instead of an if/else block.
+- I'm thinking about looking at The Odin Project tomorrow.
+
+
+**Link(s) to work**:
+https://gefgu.github.io/JavaScript30/
