@@ -65,3 +65,15 @@ https://gefgu.github.io/JavaScript30/
 
 **Link(s) to work**:
 https://gefgu.github.io/JavaScript30/
+
+### Day 5: January 5th, 2022
+
+**Today's Progress**:
+- Completed 21% of the Foundations course from The Odin Project
+
+**Thoughts**: 
+- It was great to know how the internet and the web works through solid lessons.
+- I liked to play with xubuntu.
+- Loved the useful commands of the linux terminal.
+
+**Link(s) to work**:
