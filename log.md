@@ -77,3 +77,18 @@ https://gefgu.github.io/JavaScript30/
 - Loved the useful commands of the linux terminal.
 
 **Link(s) to work**:
+
+### Day 6: January 6th, 2022
+
+**Today's Progress**:
+- 2hrs 37 mins according to WakaTime. 
+- Learned about git.
+- Created an SSH Key and linked it with GitHub.
+- Did the Recipes project from The Odin Project.
+
+**Thoughts**: 
+I'm excited to keep going!
+
+**Link(s) to work**:
+https://github.com/gefgu/odin-recipes (Code)
+https://gefgu.github.io/odin-recipes/ (Live Preview)
