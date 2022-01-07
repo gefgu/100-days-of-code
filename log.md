@@ -92,3 +92,13 @@ I'm excited to keep going!
 **Link(s) to work**:
 https://github.com/gefgu/odin-recipes (Code)
 https://gefgu.github.io/odin-recipes/ (Live Preview)
+
+### Day 7: January 7th, 2022
+
+**Today's Progress**:
+- Worked through some CSS exercises from The Odin Project.
+
+**Thoughts**: 
+- It was fun to learn more about the specificity on CSS.
+
+**Link(s) to work**:
