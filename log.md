@@ -123,3 +123,4 @@ https://gefgu.github.io/odin-recipes/ (Live Preview)
 - Solid exercises made me think about html and css together to build the layouts.
 
 **Link(s) to work**:
+https://gefgu.github.io/odin-landing-page/
