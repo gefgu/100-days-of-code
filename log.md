@@ -112,3 +112,14 @@ https://gefgu.github.io/odin-recipes/ (Live Preview)
 - It was good to understand it better.
 
 **Link(s) to work**:
+
+### Day 9: January 9th, 2022
+
+**Today's Progress**:
+- Studied flexbox with The Odin Project.
+- Started working on the Landing Page project.
+
+**Thoughts**: 
+- Solid exercises made me think about html and css together to build the layouts.
+
+**Link(s) to work**:
