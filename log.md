@@ -124,3 +124,14 @@ https://gefgu.github.io/odin-recipes/ (Live Preview)
 
 **Link(s) to work**:
 https://gefgu.github.io/odin-landing-page/
+
+### Day 10: January 10th, 2022
+
+**Today's Progress**:
+- Finished the Landing Page
+
+**Thoughts**: 
+- Liked how I thought about the design in my mind automatically when writing the html.
+
+**Link(s) to work**:
+https://gefgu.github.io/odin-landing-page/
