@@ -135,3 +135,13 @@ https://gefgu.github.io/odin-landing-page/
 
 **Link(s) to work**:
 https://gefgu.github.io/odin-landing-page/
+
+### Day 11: January 11th, 2022
+
+**Today's Progress**:
+- Studied JavaScript with The Odin Project.
+
+**Thoughts**: 
+- The depth of it made me learn useful tips.
+
+**Link(s) to work**:
