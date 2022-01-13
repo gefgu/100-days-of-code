@@ -153,6 +153,6 @@ https://gefgu.github.io/odin-landing-page/
 - Started the Rock-Paper-Scissors project
 
 **Thoughts**: 
-The key is to understand the problem. Describe it in plain English. Write a pseudocode with steps to solve it. Then, break it down into subproblems you solve one by one.
+The key is to understand the problem. Describe it in plain English. Write a pseudo code with steps to solve it. Then, break it down into subproblems you solve one by one.
 
 **Link(s) to work**:
