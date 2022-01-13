@@ -156,3 +156,13 @@ https://gefgu.github.io/odin-landing-page/
 The key is to understand the problem. Describe it in plain English. Write a pseudo code with steps to solve it. Then, break it down into subproblems you solve one by one.
 
 **Link(s) to work**:
+
+### Day 13: January 13th, 2022
+
+**Today's Progress**:
+- Solved JavaScript problems using TDD.
+
+**Thoughts**: 
+I liked TDD because it made me feel safer about my code.
+
+**Link(s) to work**:
