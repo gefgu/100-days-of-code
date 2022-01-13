@@ -145,3 +145,14 @@ https://gefgu.github.io/odin-landing-page/
 - The depth of it made me learn useful tips.
 
 **Link(s) to work**:
+
+### Day 12: January 12th, 2022
+
+**Today's Progress**:
+- Studied about how to solve problems as a programmer.
+- Started the Rock-Paper-Scissors project
+
+**Thoughts**: 
+The key is to understand the problem. Describe it in plain English. Write a pseudocode with steps to solve it. Then, break it down into subproblems you solve one by one.
+
+**Link(s) to work**:
