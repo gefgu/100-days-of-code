@@ -166,3 +166,15 @@ The key is to understand the problem. Describe it in plain English. Write a pseu
 I liked TDD because it made me feel safer about my code.
 
 **Link(s) to work**:
+
+### Day 14: January 14th, 2022
+
+**Today's Progress**:
+- Worked in a Rock Paper Scissors Project.
+
+**Thoughts**: 
+Liked it because I hit some roadblocks I needed to overcome. 
+
+**Link(s) to work**:
+https://github.com/gefgu/odin-rock-paper-scissors (code)
+https://gefgu.github.io/odin-rock-paper-scissors/ (live preview)
