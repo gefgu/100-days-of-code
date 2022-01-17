@@ -191,3 +191,16 @@ https://gefgu.github.io/odin-rock-paper-scissors/ (live preview)
 **Link(s) to work**:
 https://github.com/gefgu/odin-Etch-a-Sketch (code)
 https://gefgu.github.io/odin-Etch-a-Sketch/ (live preview)
+
+### Day 16: January 16th, 2022
+
+**Today's Progress**:
+- Finished the Etch-a-Sketch project from The Odin Project.
+
+**Thoughts**: 
+- It was really fun to work with this project!
+- Sometimes I spent some minutes playing with it before going back to coding.
+
+**Link(s) to work**:
+https://github.com/gefgu/odin-Etch-a-Sketch (code)
+https://gefgu.github.io/odin-Etch-a-Sketch/ (live preview)
