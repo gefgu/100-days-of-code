@@ -204,3 +204,13 @@ https://gefgu.github.io/odin-Etch-a-Sketch/ (live preview)
 **Link(s) to work**:
 https://github.com/gefgu/odin-Etch-a-Sketch (code)
 https://gefgu.github.io/odin-Etch-a-Sketch/ (live preview)
+
+### Day 17: January 17th, 2022
+
+**Today's Progress**:
+- Did several javascript challenges.
+
+**Thoughts**: 
+- Doing pseudo code helped me every time I had doubts about the implementation. It is a great tool.
+
+**Link(s) to work**:
