@@ -214,3 +214,14 @@ https://gefgu.github.io/odin-Etch-a-Sketch/ (live preview)
 - Doing pseudo code helped me every time I had doubts about the implementation. It is a great tool.
 
 **Link(s) to work**:
+
+### Day 18: January 18th, 2022
+
+**Today's Progress**:
+- Today I build the Calculator project from The Odin Project.
+
+**Thoughts**: 
+- It was an enjoyable project to build - the hours flew by.
+- I started to use pseudo code in the middle of the project and it made the process easier. I hope to use it more frequently in the future.
+
+**Link(s) to work**:
