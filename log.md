@@ -225,3 +225,5 @@ https://gefgu.github.io/odin-Etch-a-Sketch/ (live preview)
 - I started to use pseudo code in the middle of the project and it made the process easier. I hope to use it more frequently in the future.
 
 **Link(s) to work**:
+https://github.com/gefgu/odin-calculator (Code)
+https://gefgu.github.io/odin-calculator/ (Live Preview)
