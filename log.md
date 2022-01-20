@@ -227,3 +227,13 @@ https://gefgu.github.io/odin-Etch-a-Sketch/ (live preview)
 **Link(s) to work**:
 https://github.com/gefgu/odin-calculator (Code)
 https://gefgu.github.io/odin-calculator/ (Live Preview)
+
+### Day 19: January 19th, 2022
+
+**Today's Progress**:
+- Today I learned about back-end, frameworks, object constructors and prototypal inheritance.
+
+**Thoughts**: 
+- Interesting!
+
+**Link(s) to work**:
