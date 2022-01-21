@@ -280,3 +280,18 @@ https://gefgu.github.io/odin-calculator/ (Live Preview)
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-library
+
+### Day 21: January 21th, 2022
+
+**Today's Progress**:
+
+- Finished the Library Project from The Odin Project!
+
+**Thoughts**:
+
+- Looking other people designs helps me build nice looking projects.
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-library (code)
+https://gefgu.github.io/odin-library/ (live preview)
