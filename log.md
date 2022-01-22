@@ -295,3 +295,15 @@ https://github.com/gefgu/odin-library
 
 https://github.com/gefgu/odin-library (code)
 https://gefgu.github.io/odin-library/ (live preview)
+
+### Day 22: January 22th, 2022
+
+**Today's Progress**:
+
+- Learned about Factory Functions and the Module Pattern
+
+**Thoughts**:
+
+- They are the patterns I wish I had earlier on.
+
+**Link(s) to work**:
