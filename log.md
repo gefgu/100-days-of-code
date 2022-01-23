@@ -300,10 +300,22 @@ https://gefgu.github.io/odin-library/ (live preview)
 
 **Today's Progress**:
 
-- Learned about Factory Functions and the Module Pattern
+- Learned about Factory Functions and the Module Pattern!
 
 **Thoughts**:
 
 - They are the patterns I wish I had earlier on.
+
+**Link(s) to work**:
+
+### Day 23: January 23th, 2022
+
+**Today's Progress**:
+
+- Build the Tic Tac Toe project from The Odin Project.
+
+**Thoughts**:
+
+- Loving Factory Functions and the Module Pattern!
 
 **Link(s) to work**:
