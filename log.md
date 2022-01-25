@@ -335,3 +335,18 @@ https://gefgu.github.io/odin-tic-tac-toe/
 **Link(s) to work**:
 https://github.com/gefgu/odin-tic-tac-toe
 https://gefgu.github.io/odin-tic-tac-toe/
+
+### Day 25: January 25th, 2022
+
+**Today's Progress**:
+
+- Spent more time working in the minimax algorithm for the AI of my Tic Tac Toe project.
+
+**Thoughts**:
+
+- Truly hard!
+- Still don't work quite right but I'm moving on.
+
+**Link(s) to work**:
+https://github.com/gefgu/odin-tic-tac-toe
+https://gefgu.github.io/odin-tic-tac-toe/
