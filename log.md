@@ -312,10 +312,26 @@ https://gefgu.github.io/odin-library/ (live preview)
 
 **Today's Progress**:
 
-- Build the Tic Tac Toe project from The Odin Project.
+- Built the Tic Tac Toe project from The Odin Project.
 
 **Thoughts**:
 
 - Loving Factory Functions and the Module Pattern!
 
 **Link(s) to work**:
+https://github.com/gefgu/odin-tic-tac-toe
+https://gefgu.github.io/odin-tic-tac-toe/
+
+### Day 24: January 24th, 2022
+
+**Today's Progress**:
+
+- Spent time working in the minmax algorithm for the Tic Tac Toe project
+
+**Thoughts**:
+
+- Truly hard!
+
+**Link(s) to work**:
+https://github.com/gefgu/odin-tic-tac-toe
+https://gefgu.github.io/odin-tic-tac-toe/
