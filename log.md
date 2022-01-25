@@ -326,7 +326,7 @@ https://gefgu.github.io/odin-tic-tac-toe/
 
 **Today's Progress**:
 
-- Spent time working in the minmax algorithm for the Tic Tac Toe project
+- Spent time working in the minimax algorithm for the AI of my Tic Tac Toe project.
 
 **Thoughts**:
 
