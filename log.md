@@ -350,3 +350,16 @@ https://gefgu.github.io/odin-tic-tac-toe/
 **Link(s) to work**:
 https://github.com/gefgu/odin-tic-tac-toe
 https://gefgu.github.io/odin-tic-tac-toe/
+
+### Day 26: January 26th, 2022
+
+**Today's Progress**:
+
+- Learned about emmet snippets in VS Code.
+- Learned about form controls and how to style them.
+
+**Thoughts**:
+
+- Accepting the value of patience and consistency.
+
+**Link(s) to work**:
