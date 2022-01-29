@@ -363,3 +363,23 @@ https://gefgu.github.io/odin-tic-tac-toe/
 - Accepting the value of patience and consistency.
 
 **Link(s) to work**:
+
+### Day 27: January 27th, 2022
+
+**Today's Progress**:
+
+- Learned about tables and its semantics attributes.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 28: January 28th, 2022
+
+**Today's Progress**:
+
+- Learned about CSS units, selectors and positions.
+
+**Thoughts**:
+
+**Link(s) to work**:
