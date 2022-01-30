@@ -383,3 +383,13 @@ https://gefgu.github.io/odin-tic-tac-toe/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 29: January 29th, 2022
+
+**Today's Progress**:
+
+- Learned about CSS functions, CSS variables and browser compatibility.
+
+**Thoughts**:
+
+**Link(s) to work**:
