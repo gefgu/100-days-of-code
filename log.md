@@ -393,3 +393,15 @@ https://gefgu.github.io/odin-tic-tac-toe/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 30: January 30th, 2022
+
+**Today's Progress**:
+
+- Worked on a Sign Up Form project.
+
+**Thoughts**:
+
+- Planning the overall project made the progress faster.
+
+**Link(s) to work**:
