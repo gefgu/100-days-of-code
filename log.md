@@ -405,3 +405,13 @@ https://gefgu.github.io/odin-tic-tac-toe/
 - Planning the overall project made the progress faster.
 
 **Link(s) to work**:
+
+### Day 31: January 31th, 2022
+
+**Today's Progress**:
+
+- Learned about CSS Grid.
+
+**Thoughts**:
+
+**Link(s) to work**:
