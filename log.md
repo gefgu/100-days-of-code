@@ -415,3 +415,14 @@ https://gefgu.github.io/odin-tic-tac-toe/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 32: February 1st, 2022
+
+**Today's Progress**:
+
+- Learned about advanced CSS grid properties.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
