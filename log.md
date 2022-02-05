@@ -437,3 +437,15 @@ https://gefgu.github.io/odin-tic-tac-toe/
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-admin-dashboard
+
+### Day 33: February 4th, 2022
+
+**Today's Progress**:
+
+- Continued working on the Admin Dashboard project from The Odin Project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-admin-dashboard
