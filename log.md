@@ -438,7 +438,7 @@ https://gefgu.github.io/odin-tic-tac-toe/
 
 https://github.com/gefgu/odin-admin-dashboard
 
-### Day 33: February 4th, 2022
+### Day 34: February 5th, 2022
 
 **Today's Progress**:
 
