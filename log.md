@@ -485,3 +485,16 @@ https://github.com/gefgu/odin-admin-dashboard
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-admin-dashboard
+
+### Day 38: February 9th, 2022
+
+**Today's Progress**:
+
+- Finished the Admin Dashboard project from The Odin Project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-admin-dashboard
+https://gefgu.github.io/odin-admin-dashboard/
