@@ -513,7 +513,7 @@ https://gefgu.github.io/odin-admin-dashboard/
 
 **Today's Progress**:
 
-- Studied JavaScript Classes.
+- Learned about Webpack and ES6 Modules.
 
 **Thoughts**:
 
