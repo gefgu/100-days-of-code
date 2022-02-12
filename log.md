@@ -498,3 +498,23 @@ https://github.com/gefgu/odin-admin-dashboard
 
 https://github.com/gefgu/odin-admin-dashboard
 https://gefgu.github.io/odin-admin-dashboard/
+
+### Day 39: February 10th, 2022
+
+**Today's Progress**:
+
+- Studied JavaScript Classes.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 40: February 11th, 2022
+
+**Today's Progress**:
+
+- Studied JavaScript Classes.
+
+**Thoughts**:
+
+**Link(s) to work**:
