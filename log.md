@@ -530,3 +530,16 @@ https://gefgu.github.io/odin-admin-dashboard/
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-restaurant
+
+### Day 42: February 13th, 2022
+
+**Today's Progress**:
+
+- Finished my project to learn about Webpack.
+- Learned about SOLID principles.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-restaurant
