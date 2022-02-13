@@ -518,3 +518,15 @@ https://gefgu.github.io/odin-admin-dashboard/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 41: February 12th, 2022
+
+**Today's Progress**:
+
+- Worked on a project to understand better Webpack and ES6 Modules.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-restaurant
