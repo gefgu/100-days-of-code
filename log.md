@@ -543,3 +543,16 @@ https://github.com/gefgu/odin-restaurant
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-restaurant
+
+### Day 42: February 13th, 2022
+
+**Today's Progress**:
+
+- Started working on a To-Do project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-to-do
+
