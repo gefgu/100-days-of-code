@@ -591,3 +591,15 @@ https://github.com/gefgu/odin-to-do
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-to-do
+
+### Day 47: February 20th, 2022
+
+**Today's Progress**:
+
+- Continued working on my To-Do project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-to-do
