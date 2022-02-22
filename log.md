@@ -603,3 +603,27 @@ https://github.com/gefgu/odin-to-do
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-to-do
+
+### Day 48: February 21th, 2022
+
+**Today's Progress**:
+
+- Added Local Storage for my To-Do App.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-to-do
+
+### Day 49: February 22th, 2022
+
+**Today's Progress**:
+
+- Finished the application logic and started working on the UI of my To-Do Project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-to-do
