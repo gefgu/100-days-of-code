@@ -639,3 +639,18 @@ https://github.com/gefgu/odin-to-do
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-to-do
+
+### Day 51: March 27th, 2022
+
+**Today's Progress**:
+
+- Finished the To-Do Project from The Odin Project.
+
+**Thoughts**:
+
+- It was amazing to go back to coding. Building an app makes me proud!
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-to-do
+https://gefgu.github.io/odin-to-do/
