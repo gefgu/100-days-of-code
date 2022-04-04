@@ -666,3 +666,13 @@ https://github.com/gefgu/odin-to-do
 
 https://github.com/gefgu/odin-to-do
 https://gefgu.github.io/odin-to-do/
+
+### Day 53: April 3rd, 2022
+
+**Today's Progress**:
+
+- Worked on an image slider module.
+
+**Thoughts**:
+
+**Link(s) to work**:
