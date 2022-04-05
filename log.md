@@ -676,3 +676,13 @@ https://gefgu.github.io/odin-to-do/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 54: April 4th, 2022
+
+**Today's Progress**:
+
+- Made my first open source contribution.
+
+**Thoughts**:
+
+**Link(s) to work**:
