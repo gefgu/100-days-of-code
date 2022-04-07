@@ -696,3 +696,16 @@ https://gefgu.github.io/odin-to-do/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 56: April 7th, 2022
+
+**Today's Progress**:
+
+- Finished my image carousel.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-image-gallery
+https://gefgu.github.io/odin-image-gallery/
