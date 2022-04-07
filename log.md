@@ -686,3 +686,13 @@ https://gefgu.github.io/odin-to-do/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 55: April 6th, 2022
+
+**Today's Progress**:
+
+- Worked on an image slider module.
+
+**Thoughts**:
+
+**Link(s) to work**:
