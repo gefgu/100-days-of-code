@@ -722,3 +722,13 @@ https://gefgu.github.io/odin-image-gallery/
 
 https://github.com/gefgu/odin-library
 https://gefgu.github.io/odin-library/
+
+### Day 58: April 10th, 2022
+
+**Today's Progress**:
+
+- Played with the Constraint Validation API building a form with nice validation!.
+
+**Thoughts**:
+
+**Link(s) to work**:
