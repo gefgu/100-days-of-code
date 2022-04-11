@@ -727,8 +727,21 @@ https://gefgu.github.io/odin-library/
 
 **Today's Progress**:
 
-- Played with the Constraint Validation API building a form with nice validation!.
+- Played with the Constraint Validation API building a form with nice validation!
 
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 59: April 11th, 2022
+
+**Today's Progress**:
+
+- Finished my form using the Contraint Validation API.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/validation-form
+https://gefgu.github.io/validation-form/
