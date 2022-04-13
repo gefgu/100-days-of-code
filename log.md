@@ -745,3 +745,13 @@ https://gefgu.github.io/odin-library/
 
 https://github.com/gefgu/validation-form
 https://gefgu.github.io/validation-form/
+
+### Day 60: April 12th, 2022
+
+**Today's Progress**:
+
+- Learned about asynchronous code with callbacks and promises.
+
+**Thoughts**:
+
+**Link(s) to work**:
