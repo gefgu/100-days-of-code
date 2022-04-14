@@ -755,3 +755,13 @@ https://gefgu.github.io/validation-form/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 61: April 13th, 2022
+
+**Today's Progress**:
+
+- Studied JavaScript Promises.
+
+**Thoughts**:
+
+**Link(s) to work**:
