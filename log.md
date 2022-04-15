@@ -765,3 +765,13 @@ https://gefgu.github.io/validation-form/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 62: April 14th, 2022
+
+**Today's Progress**:
+
+- Built a weather app.
+
+**Thoughts**:
+
+**Link(s) to work**:
