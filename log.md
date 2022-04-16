@@ -775,3 +775,15 @@ https://gefgu.github.io/validation-form/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 63: April 15th, 2022
+
+**Today's Progress**:
+
+- Learned about TDD and unit test in JavaScript with Fun Fun Function and a small challenge project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/odin-testing-pratice
