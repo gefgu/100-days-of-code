@@ -787,3 +787,13 @@ https://gefgu.github.io/validation-form/
 **Link(s) to work**:
 
 https://github.com/gefgu/odin-testing-pratice
+
+### Day 64: April 16th, 2022
+
+**Today's Progress**:
+
+- Started working on a Battleship web project.
+
+**Thoughts**:
+
+**Link(s) to work**:
