@@ -797,3 +797,13 @@ https://github.com/gefgu/odin-testing-pratice
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 65: April 17th, 2022
+
+**Today's Progress**:
+
+- Worked on my Battleship project.
+
+**Thoughts**:
+
+**Link(s) to work**:
