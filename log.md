@@ -847,3 +847,17 @@ https://github.com/gefgu/odin-testing-pratice
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 70: April 22th, 2022
+
+**Today's Progress**:
+
+- Finished my Battleship project.
+- Learned about create-react-app, props and state.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/battleship
+https://gefgu.github.io/battleship/
