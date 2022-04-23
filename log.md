@@ -861,3 +861,13 @@ https://github.com/gefgu/odin-testing-pratice
 
 https://github.com/gefgu/battleship
 https://gefgu.github.io/battleship/
+
+### Day 71: April 23th, 2022
+
+**Today's Progress**:
+
+- Did some tutorials and built a simple to-do app to learn about React's props and state.
+
+**Thoughts**:
+
+**Link(s) to work**:
