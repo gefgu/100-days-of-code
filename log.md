@@ -871,3 +871,13 @@ https://gefgu.github.io/battleship/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 72: April 24th, 2022
+
+**Today's Progress**:
+
+- Started working on the CV Application project from The Odin Project. Only created the format of the app now.
+
+**Thoughts**:
+
+**Link(s) to work**:
