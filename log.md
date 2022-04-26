@@ -881,3 +881,13 @@ https://gefgu.github.io/battleship/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 73: April 25th, 2022
+
+**Today's Progress**:
+
+- Kept working on the CV Application project from The Odin Project. Now the heading is editable.
+
+**Thoughts**:
+
+**Link(s) to work**:
