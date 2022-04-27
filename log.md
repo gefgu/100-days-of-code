@@ -901,3 +901,14 @@ https://gefgu.github.io/battleship/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 75: April 27th, 2022
+
+**Today's Progress**:
+
+- Finished the CV Application project from The Odin Project.
+- Started learning about lifecycle.
+
+**Thoughts**:
+
+**Link(s) to work**:
