@@ -907,7 +907,7 @@ https://gefgu.github.io/battleship/
 **Today's Progress**:
 
 - Finished the CV Application project from The Odin Project.
-- Started learning about lifecycle.
+- Started learning about Lifecycle methods.
 
 **Thoughts**:
 
