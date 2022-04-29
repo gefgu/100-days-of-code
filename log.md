@@ -912,3 +912,13 @@ https://gefgu.github.io/battleship/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 76: April 28th, 2022
+
+**Today's Progress**:
+
+- Working on the CV Application project, this time rewriting it to use React Hooks.
+
+**Thoughts**:
+
+**Link(s) to work**:
