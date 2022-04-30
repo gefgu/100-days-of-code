@@ -935,3 +935,15 @@ https://gefgu.github.io/battleship/
 
 https://github.com/gefgu/memory-card
 https://gefgu.github.io/memory-card/
+
+### Day 78: April 30th, 2022
+
+**Today's Progress**:
+
+- Learned about React routing and React Testing.
+- Using the new concepts in the Shopping Cart project from The Odin Project
+
+**Thoughts**:
+
+**Link(s) to work**:
+
