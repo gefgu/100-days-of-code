@@ -922,3 +922,16 @@ https://gefgu.github.io/battleship/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 77: April 29th, 2022
+
+**Today's Progress**:
+
+- Learned about React hooks by building a Memory Card game inspired by The Cosmere from Brandon Sanderson.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/memory-card
+https://gefgu.github.io/memory-card/
