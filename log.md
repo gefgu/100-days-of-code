@@ -947,3 +947,12 @@ https://gefgu.github.io/memory-card/
 
 **Link(s) to work**:
 
+### Day 79: May 1th, 2022
+
+**Today's Progress**:
+
+- Kept working on the Shopping Cart project from The Odin Project.
+
+**Thoughts**:
+
+**Link(s) to work**:
