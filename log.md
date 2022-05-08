@@ -976,3 +976,24 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 82: May 5th, 2022
+
+**Today's Progress**:
+
+- Learning about the React Testing Library by adding tests to my Shopping Cart project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 83: May 3th, 2022
+
+**Today's Progress**:
+
+- Did the final touches in my Shopping Cart project.
+- Started learning about how to use a BaaS for my Back End.
+
+**Thoughts**:
+
+**Link(s) to work**:
