@@ -987,12 +987,22 @@ https://gefgu.github.io/memory-card/
 
 **Link(s) to work**:
 
-### Day 83: May 3th, 2022
+### Day 83: May 8th, 2022
 
 **Today's Progress**:
 
 - Did the final touches in my Shopping Cart project.
 - Started learning about how to use a BaaS for my Back End.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 84: May 9th, 2022
+
+**Today's Progress**:
+
+- Working through a Firebase codelab to learn how to use it in my future apps.
 
 **Thoughts**:
 
