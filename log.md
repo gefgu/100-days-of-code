@@ -1017,3 +1017,13 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 85: May 13th, 2022
+
+**Today's Progress**:
+
+- Changing an old project implementation using Local Storage to Firebase. Now I already implemeted authentication, reading and writing operations.
+
+**Thoughts**:
+
+**Link(s) to work**:
