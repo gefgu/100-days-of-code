@@ -1027,3 +1027,13 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 86: May 14th, 2022
+
+**Today's Progress**:
+
+- Starting the Where's Waldo? project from The Odin Project.
+
+**Thoughts**:
+
+**Link(s) to work**:
