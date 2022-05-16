@@ -1037,3 +1037,13 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 87: May 15th, 2022
+
+**Today's Progress**:
+
+- Working on the UI of my Where's Waldo? project. I find this app amazing because I will have lots of fun when I show it to my friends!!! 
+
+**Thoughts**:
+
+**Link(s) to work**:
