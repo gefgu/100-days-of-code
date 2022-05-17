@@ -1042,7 +1042,17 @@ https://gefgu.github.io/memory-card/
 
 **Today's Progress**:
 
-- Working on the UI of my Where's Waldo? project. I find this app amazing because I will have lots of fun when I show it to my friends!!! 
+- Working on the UI of my Where's Waldo? project. I find this app amazing because I will have lots of fun when I show it to my friends!!!
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 88: May 16th, 2022
+
+**Today's Progress**:
+
+- Working on the UI of my Where's Waldo? project. I like to be able to reuse my components in several parts of the UI. React is truly great!!!
 
 **Thoughts**:
 
