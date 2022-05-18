@@ -1057,3 +1057,13 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 89: May 17th, 2022
+
+**Today's Progress**:
+
+- Working on the UI of my Where's Waldo? project. Today I learned how to make a popover. Struggled a lot because of a misspelling - this is the joy of coding.
+
+**Thoughts**:
+
+**Link(s) to work**:
