@@ -1087,3 +1087,13 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 92: May 20th, 2022
+
+**Today's Progress**:
+
+- Continued working on the integration of Firebase back-end to my Where's Waldo? project.
+
+**Thoughts**:
+
+**Link(s) to work**:
