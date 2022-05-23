@@ -1097,3 +1097,23 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 93: May 21th, 2022
+
+**Today's Progress**:
+
+- Continued working on the integration of Firebase back-end to my Where's Waldo? project. Built the game logic using checks to the back-end.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 94: May 22th, 2022
+
+**Today's Progress**:
+
+- Continued working on the integration of Firebase back-end to my Where's Waldo? project. Built end-game functionalities like a leaderboard.
+
+**Thoughts**:
+
+**Link(s) to work**:
