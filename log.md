@@ -1117,3 +1117,13 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 95: May 23th, 2022
+
+**Today's Progress**:
+
+- Continued working on my Where's Waldo? project. Built the form validation for prevent repeated usernames in Leaderboard.
+
+**Thoughts**:
+
+**Link(s) to work**:
