@@ -1127,3 +1127,13 @@ https://gefgu.github.io/memory-card/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 96: May 24th, 2022
+
+**Today's Progress**:
+
+- Continued working on my Where's Waldo? project. Built several UX improvements.
+
+**Thoughts**:
+
+**Link(s) to work**:
