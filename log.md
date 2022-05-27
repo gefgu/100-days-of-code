@@ -1150,3 +1150,13 @@ https://gefgu.github.io/memory-card/
 
 https://github.com/gefgu/where-is-waldo
 https://where-is-waldo-16811.web.app/
+
+### Day 98: May 27th, 2022
+
+**Today's Progress**:
+
+- Learned about CSS's transform and transitions. Excited to use them in my next big project!
+
+**Thoughts**:
+
+**Link(s) to work**:
