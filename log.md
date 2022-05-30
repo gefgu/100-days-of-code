@@ -1160,3 +1160,13 @@ https://where-is-waldo-16811.web.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 99: May 28th, 2022
+
+**Today's Progress**:
+
+- Learned about how to create performant CSS animations. This is great!
+
+**Thoughts**:
+
+**Link(s) to work**:
