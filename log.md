@@ -1170,3 +1170,13 @@ https://where-is-waldo-16811.web.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 100: May 30th, 2022
+
+**Today's Progress**:
+
+- Started learning about Web Accessibility and Semantic HTML. I think this topic deserve more attention because providing accessibility makes the experience better for everyone.
+
+**Thoughts**:
+
+**Link(s) to work**:
