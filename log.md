@@ -1161,7 +1161,7 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
-### Day 99: May 28th, 2022
+### Day 99: May 29th, 2022
 
 **Today's Progress**:
 
@@ -1176,6 +1176,21 @@ https://where-is-waldo-16811.web.app/
 **Today's Progress**:
 
 - Started learning about Web Accessibility and Semantic HTML. I think this topic deserve more attention because providing accessibility makes the experience better for everyone.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+# Round 2
+
+### Day 1: May 31th, 2022
+
+**Today's Progress**:
+
+- Learned about Accessible Colors: contrast ratios and don't depend on it for meaning.
+- Learned about making Keyboard Navigation possibile: Correct management of the html order and use of tabindex.
+- Learned about how to write meaningful texts for acessibility concerns.
+- Also, learned about aria labels and how to audit the acessibility.
 
 **Thoughts**:
 
