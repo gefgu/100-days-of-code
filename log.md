@@ -1195,3 +1195,13 @@ https://where-is-waldo-16811.web.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 2: June 1st, 2022
+
+**Today's Progress**:
+
+- Learned about Natural Responsiveness, Responsive Images and Media Queries.
+
+**Thoughts**:
+
+**Link(s) to work**:
