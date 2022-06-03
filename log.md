@@ -1205,3 +1205,13 @@ https://where-is-waldo-16811.web.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 3: June 2st, 2022
+
+**Today's Progress**:
+
+- Started working on a Personal Portfolio project.
+
+**Thoughts**:
+
+**Link(s) to work**:
