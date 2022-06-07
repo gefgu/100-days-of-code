@@ -1206,7 +1206,7 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
-### Day 3: June 2st, 2022
+### Day 3: June 2nd, 2022
 
 **Today's Progress**:
 
@@ -1216,7 +1216,7 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
-### Day 4: June 4st, 2022
+### Day 4: June 4th, 2022
 
 **Today's Progress**:
 
@@ -1226,7 +1226,17 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
-### Day 5: June 5st, 2022
+### Day 5: June 5th, 2022
+
+**Today's Progress**:
+
+- Continued working on a Personal Portfolio project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 6: June 6th, 2022
 
 **Today's Progress**:
 
