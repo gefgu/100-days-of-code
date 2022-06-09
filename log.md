@@ -1256,3 +1256,13 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
+### Day 8: June 9th, 2022
+
+**Today's Progress**:
+
+- Started working on the responsive details of my Personal Portfolio project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
