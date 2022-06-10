@@ -1266,3 +1266,13 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
+### Day 9: June 10th, 2022
+
+**Today's Progress**:
+
+- Continued working on a Personal Portfolio project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
