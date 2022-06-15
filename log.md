@@ -1286,3 +1286,13 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
+### Day 11: June 14th, 2022
+
+**Today's Progress**:
+
+- Almost finished my Personal Portfolio project. When I replaced the placeholder images for the actual images, I found unexpected results. Working on it and hoping to finish tomorrow.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
