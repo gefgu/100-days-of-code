@@ -1296,3 +1296,13 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
+### Day 12: June 15th, 2022
+
+**Today's Progress**:
+
+- Learned about Firestore security rules and implemeted it in my Where's Waldo project and my Library project.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
