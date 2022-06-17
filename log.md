@@ -1306,3 +1306,16 @@ https://where-is-waldo-16811.web.app/
 
 **Link(s) to work**:
 
+### Day 13: June 17th, 2022
+
+**Today's Progress**:
+
+- Implemented the final responsive details of my portfolio project (Didn't like much of the design from The Odin Project - going to update it someday)
+- Started working on a clone of IMDb.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://gefgu.github.io/portfolio/
+
