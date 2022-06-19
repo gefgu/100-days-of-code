@@ -1319,3 +1319,14 @@ https://where-is-waldo-16811.web.app/
 
 https://gefgu.github.io/portfolio/
 
+### Day 14: June 18th, 2022
+
+**Today's Progress**:
+
+- Continued working on my clone of IMDb.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
