@@ -1329,4 +1329,14 @@ https://gefgu.github.io/portfolio/
 
 **Link(s) to work**:
 
+### Day 15: June 19th, 2022
+
+**Today's Progress**:
+
+- Continued working on my clone of IMDb.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
