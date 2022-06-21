@@ -1349,4 +1349,14 @@ https://gefgu.github.io/portfolio/
 
 **Link(s) to work**:
 
+### Day 17: June 21th, 2022
+
+**Today's Progress**:
+
+- Continued working on my clone of IMDb. Added Firebase authentication and worked with the reviews layout.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
