@@ -1359,4 +1359,14 @@ https://gefgu.github.io/portfolio/
 
 **Link(s) to work**:
 
+### Day 18: June 22th, 2022
+
+**Today's Progress**:
+
+- Continued working on my clone of IMDb. Worked on the "Add Review" section.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
