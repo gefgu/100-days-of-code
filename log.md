@@ -1379,4 +1379,14 @@ https://gefgu.github.io/portfolio/
 
 **Link(s) to work**:
 
+### Day 20: June 24th, 2022
+
+**Today's Progress**:
+
+- Continued working on my clone of IMDb. Implemented all of search logic, did some improvements for mobile and started working on the image and video carousel.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
