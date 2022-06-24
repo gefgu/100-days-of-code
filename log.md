@@ -1369,4 +1369,14 @@ https://gefgu.github.io/portfolio/
 
 **Link(s) to work**:
 
+### Day 19: June 23th, 2022
+
+**Today's Progress**:
+
+- Continued working on my clone of IMDb. Finished the review's logic and started working on the search of movies.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
