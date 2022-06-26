@@ -1389,4 +1389,14 @@ https://gefgu.github.io/portfolio/
 
 **Link(s) to work**:
 
+### Day 21: June 25th, 2022
+
+**Today's Progress**:
+
+- Continued working on my clone of IMDb. Finished the image and video carousel and started working on the actor's page.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
