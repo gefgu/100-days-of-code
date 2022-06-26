@@ -1399,4 +1399,17 @@ https://gefgu.github.io/portfolio/
 
 **Link(s) to work**:
 
+### Day 22: June 26th, 2022
+
+**Today's Progress**:
+
+- Finished my clone of IMDb. Added the actor's page and did several little fixes and refactors.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://imdb-clone-5d82a.web.app/
+https://github.com/gefgu/movies
+
+
 
