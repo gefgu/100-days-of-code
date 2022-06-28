@@ -1411,5 +1411,16 @@ https://gefgu.github.io/portfolio/
 https://imdb-clone-5d82a.web.app/
 https://github.com/gefgu/movies
 
+### Day 23: June 27th, 2022
+
+**Today's Progress**:
+
+- Started learning about NodeJS.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
 
 
