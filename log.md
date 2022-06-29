@@ -1421,6 +1421,12 @@ https://github.com/gefgu/movies
 
 **Link(s) to work**:
 
+### Day 24: June 28th, 2022
 
+**Today's Progress**:
 
+- Continued learning about NodeJS. Built a simple server with routing and started doing the MongoDB University "Mongo Basics" course.
 
+**Thoughts**:
+
+**Link(s) to work**:
