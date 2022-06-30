@@ -1430,3 +1430,13 @@ https://github.com/gefgu/movies
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 25: June 28th, 2022
+
+**Today's Progress**:
+
+- Finished MongoDB University "Mongo Basics" course.
+
+**Thoughts**:
+
+**Link(s) to work**:
