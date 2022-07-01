@@ -1440,3 +1440,13 @@ https://github.com/gefgu/movies
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 26: June 29th, 2022
+
+**Today's Progress**:
+
+- Started learning about Express using the MDN Express tutorial.
+
+**Thoughts**:
+
+**Link(s) to work**:
