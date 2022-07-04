@@ -1431,7 +1431,7 @@ https://github.com/gefgu/movies
 
 **Link(s) to work**:
 
-### Day 25: June 28th, 2022
+### Day 25: June 29th, 2022
 
 **Today's Progress**:
 
@@ -1441,7 +1441,7 @@ https://github.com/gefgu/movies
 
 **Link(s) to work**:
 
-### Day 26: June 29th, 2022
+### Day 26: June 30th, 2022
 
 **Today's Progress**:
 
@@ -1460,3 +1460,14 @@ https://github.com/gefgu/movies
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 28: July 3rd, 2022
+
+**Today's Progress**:
+
+- Tested my Express knowledge by building a very simple app. With it, I improved my understanding of how Express work and implemented my first POST request.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://fathomless-taiga-30548.herokuapp.com/
