@@ -1471,3 +1471,13 @@ https://github.com/gefgu/movies
 
 **Link(s) to work**:
 https://fathomless-taiga-30548.herokuapp.com/
+
+### Day 29: July 4th, 2022
+
+**Today's Progress**:
+
+- Continued learning about Express using the MDN Express tutorial.
+
+**Thoughts**:
+
+**Link(s) to work**:
