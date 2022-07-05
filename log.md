@@ -1481,3 +1481,13 @@ https://fathomless-taiga-30548.herokuapp.com/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 30: July 5th, 2022
+
+**Today's Progress**:
+
+- Continued learning about Express using the MDN Express tutorial.
+
+**Thoughts**:
+
+**Link(s) to work**:
