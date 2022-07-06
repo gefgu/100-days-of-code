@@ -1491,3 +1491,19 @@ https://fathomless-taiga-30548.herokuapp.com/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 31: July 6th, 2022
+
+**Today's Progress**:
+
+- Finished the MDN Express tutorial.
+
+**Thoughts**:
+
+- Loved the flexibility of building the back-end with Express.js
+- Excited to learn how to integrate it with React.js because the templating language is hard to work with (I used EJS).
+
+**Link(s) to work**:
+
+https://shielded-hamlet-82926.herokuapp.com/catalog
+https://github.com/gefgu/Local-Library
