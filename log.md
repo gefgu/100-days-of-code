@@ -1507,3 +1507,13 @@ https://fathomless-taiga-30548.herokuapp.com/
 
 https://shielded-hamlet-82926.herokuapp.com/catalog
 https://github.com/gefgu/Local-Library
+
+### Day 32: July 7th, 2022
+
+**Today's Progress**:
+
+- Started an Inventory Application.
+
+**Thoughts**:
+
+**Link(s) to work**:
