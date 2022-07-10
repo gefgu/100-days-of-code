@@ -1517,3 +1517,13 @@ https://github.com/gefgu/Local-Library
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 33: July 10th, 2022
+
+**Today's Progress**:
+
+- Started building the routes of my Inventory Application.
+
+**Thoughts**:
+
+**Link(s) to work**:
