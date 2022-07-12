@@ -1527,3 +1527,19 @@ https://github.com/gefgu/Local-Library
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 34: July 11th, 2022
+
+**Today's Progress**:
+
+- Finished my Inventory Application.
+
+**Thoughts**:
+
+- It is great to build a project in my own after doing a similar project with a tutorial.
+- This way, I understood better how to implement CRUD methods using express and mongoose.
+- Also, I learned how to use the express-validator and its sanitization methods.
+
+**Link(s) to work**:
+https://quiet-reaches-30421.herokuapp.com/
+https://github.com/gefgu/inventory-application
