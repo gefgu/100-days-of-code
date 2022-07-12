@@ -1543,3 +1543,14 @@ https://github.com/gefgu/Local-Library
 **Link(s) to work**:
 https://quiet-reaches-30421.herokuapp.com/
 https://github.com/gefgu/inventory-application
+
+
+### Day 35: July 12th, 2022
+
+**Today's Progress**:
+
+- Built a small authentication app to learn about passportjs.
+
+**Thoughts**:
+
+**Link(s) to work**:
