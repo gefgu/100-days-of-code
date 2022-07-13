@@ -1554,3 +1554,13 @@ https://github.com/gefgu/inventory-application
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 36: July 13th, 2022
+
+**Today's Progress**:
+
+- Worked on an authentication app with different levels of permissions for the users.
+
+**Thoughts**:
+
+**Link(s) to work**:
