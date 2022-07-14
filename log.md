@@ -1564,3 +1564,20 @@ https://github.com/gefgu/inventory-application
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 37: July 14th, 2022
+
+**Today's Progress**:
+
+- Finished my "members only" application.
+
+**Thoughts**:
+
+- It features different levels of permissions depending on the user level.
+  - No-users can only see messages' titles and content.
+  - Users which are not members can see messages' titles and content plus are able to add new messages.
+  - User which are members can see messages' titles, content, author and date plus are able to add new messages.
+  - User which are admin can see messages' title, content, author and date, are able to add new messages and delete old ones. 
+- It uses passcodes to change the membership status of the user. That is, they need to be able to answer a question correctly to upgrade their status.
+
+**Link(s) to work**:
