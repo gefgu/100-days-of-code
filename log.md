@@ -1581,3 +1581,13 @@ https://github.com/gefgu/inventory-application
 - It uses passcodes to change the membership status of the user. That is, they need to be able to answer a question correctly to upgrade their status.
 
 **Link(s) to work**:
+
+### Day 38: July 14th, 2022
+
+**Today's Progress**:
+
+- Worked through some tutorials to learn about RESTful APIs and JSON Web Tokens.
+
+**Thoughts**:
+
+**Link(s) to work**:
