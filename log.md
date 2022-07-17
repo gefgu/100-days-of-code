@@ -1582,11 +1582,21 @@ https://github.com/gefgu/inventory-application
 
 **Link(s) to work**:
 
-### Day 38: July 14th, 2022
+### Day 38: July 15th, 2022
 
 **Today's Progress**:
 
 - Worked through some tutorials to learn about RESTful APIs and JSON Web Tokens.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 39: July 17th, 2022
+
+**Today's Progress**:
+
+- Started working on the back-end of a blog project.
 
 **Thoughts**:
 
