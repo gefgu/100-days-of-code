@@ -1601,3 +1601,13 @@ https://github.com/gefgu/inventory-application
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 40: July 18th, 2022
+
+**Today's Progress**:
+
+- Built all the RESTful API endpoints of my blog project.
+
+**Thoughts**:
+
+**Link(s) to work**:
