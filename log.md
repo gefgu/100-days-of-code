@@ -1544,7 +1544,6 @@ https://github.com/gefgu/Local-Library
 https://quiet-reaches-30421.herokuapp.com/
 https://github.com/gefgu/inventory-application
 
-
 ### Day 35: July 12th, 2022
 
 **Today's Progress**:
@@ -1577,7 +1576,7 @@ https://github.com/gefgu/inventory-application
   - No-users can only see messages' titles and content.
   - Users which are not members can see messages' titles and content plus are able to add new messages.
   - User which are members can see messages' titles, content, author and date plus are able to add new messages.
-  - User which are admin can see messages' title, content, author and date, are able to add new messages and delete old ones. 
+  - User which are admin can see messages' title, content, author and date, are able to add new messages and delete old ones.
 - It uses passcodes to change the membership status of the user. That is, they need to be able to answer a question correctly to upgrade their status.
 
 **Link(s) to work**:
@@ -1609,5 +1608,18 @@ https://github.com/gefgu/inventory-application
 - Built all the RESTful API endpoints of my blog project.
 
 **Thoughts**:
+
+**Link(s) to work**:
+
+### Day 41: July 19th, 2022
+
+**Today's Progress**:
+
+- Finished the RESTful API of my blog project.
+
+**Thoughts**:
+
+- Using the API, I'm now able to Create, Read, Update and Delete the blog posts and comments.
+- It also features an authentication system using JWT and PassportJS. No users can only read. No-admin Users can create and delete their own comments. Admins can do all operations.
 
 **Link(s) to work**:
