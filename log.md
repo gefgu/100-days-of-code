@@ -1623,3 +1623,13 @@ https://github.com/gefgu/inventory-application
 - It also features an authentication system using JWT and PassportJS. No users can only read. No-admin Users can create and delete their own comments. Admins can do all operations.
 
 **Link(s) to work**:
+
+### Day 42: July 20th, 2022
+
+**Today's Progress**:
+
+- Did most of the front-end of reader page of my blog project. Inspired by the Atilla theme. Didn't integrate the with the API yet. Using styled components was hard at first, but I really like it now.
+
+**Thoughts**:
+
+**Link(s) to work**:
