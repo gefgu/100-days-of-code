@@ -1633,3 +1633,26 @@ https://github.com/gefgu/inventory-application
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 43: July 20th, 2022
+
+**Today's Progress**:
+
+- Did most of the integration of the API into the blog reader page.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 44: July 20th, 2022
+
+**Today's Progress**:
+
+- Finished the blog reader page with theme switching.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/blog-reader-view
+https://blog-reader-view.vercel.app/
