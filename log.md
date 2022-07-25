@@ -1667,3 +1667,13 @@ https://blog-reader-view.vercel.app/
 
 **Link(s) to work**:
 
+### Day 46: July 25th, 2022
+
+**Today's Progress**:
+
+- Almost finished the blog author page.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
