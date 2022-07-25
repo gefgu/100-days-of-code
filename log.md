@@ -1634,7 +1634,7 @@ https://github.com/gefgu/inventory-application
 
 **Link(s) to work**:
 
-### Day 43: July 20th, 2022
+### Day 43: July 22th, 2022
 
 **Today's Progress**:
 
@@ -1644,7 +1644,7 @@ https://github.com/gefgu/inventory-application
 
 **Link(s) to work**:
 
-### Day 44: July 20th, 2022
+### Day 44: July 23th, 2022
 
 **Today's Progress**:
 
@@ -1656,3 +1656,14 @@ https://github.com/gefgu/inventory-application
 
 https://github.com/gefgu/blog-reader-view
 https://blog-reader-view.vercel.app/
+
+### Day 45: July 24th, 2022
+
+**Today's Progress**:
+
+- Started working on the blog author page.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
