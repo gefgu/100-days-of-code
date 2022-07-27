@@ -1690,3 +1690,16 @@ https://blog-reader-view.vercel.app/
 https://blog-author-view.vercel.app/
 
 https://github.com/gefgu/blog-author-view
+
+
+### Day 48: July 27th, 2022
+
+**Today's Progress**:
+
+- Learned about using the supertest module to test Express routes/controllers.
+- Learned about using the mongodb-memory-server module for writing tests with a mongoDB server.
+- Started planning my next project: A Facebook Clone.
+
+**Thoughts**:
+
+**Link(s) to work**:
