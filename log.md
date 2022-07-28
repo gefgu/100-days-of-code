@@ -1703,3 +1703,13 @@ https://github.com/gefgu/blog-author-view
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 49: July 28th, 2022
+
+**Today's Progress**:
+
+- Working on the Authentication of my Facebook Clone using the passport-facebook module.
+
+**Thoughts**:
+
+**Link(s) to work**:
