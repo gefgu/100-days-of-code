@@ -1713,3 +1713,13 @@ https://github.com/gefgu/blog-author-view
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 50: July 29th, 2022
+
+**Today's Progress**:
+
+- Finished the Authentication of my Facebook Clone using the Facebook API.
+
+**Thoughts**:
+
+**Link(s) to work**:
