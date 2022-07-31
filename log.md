@@ -1691,7 +1691,6 @@ https://blog-author-view.vercel.app/
 
 https://github.com/gefgu/blog-author-view
 
-
 ### Day 48: July 27th, 2022
 
 **Today's Progress**:
@@ -1719,6 +1718,16 @@ https://github.com/gefgu/blog-author-view
 **Today's Progress**:
 
 - Finished the Authentication of my Facebook Clone using the Facebook API.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 51: July 31th, 2022
+
+**Today's Progress**:
+
+- Build the models in my database and built a script to populate it using FakerJS
 
 **Thoughts**:
 
