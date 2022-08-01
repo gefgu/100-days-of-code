@@ -1732,3 +1732,13 @@ https://github.com/gefgu/blog-author-view
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 52: August 1st, 2022
+
+**Today's Progress**:
+
+- Built the API handling of users friendship and friendship requests.
+
+**Thoughts**:
+
+**Link(s) to work**:
