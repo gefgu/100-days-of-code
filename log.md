@@ -1742,3 +1742,13 @@ https://github.com/gefgu/blog-author-view
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 53: August 2nd, 2022
+
+**Today's Progress**:
+
+- Built the CRUD operations for posts in my Facebook Clone.
+
+**Thoughts**:
+
+**Link(s) to work**:
