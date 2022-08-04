@@ -1757,9 +1757,20 @@ https://github.com/gefgu/blog-author-view
 
 **Today's Progress**:
 
-- Finished the API of my Facebook Clone using ExpressJS. Then, had difficulties deploying it. Tried with Vercel (what I'm using for React Projects) and learned more about Next.js. Started learning more about Next.js and started some tutorials. Now, I will keep learning about Next.js before migrating my Facebook Clone to it. 
+- Finished the API of my Facebook Clone using ExpressJS. Then, had difficulties deploying it. Tried with Vercel (what I'm using for React Projects) and learned more about Next.js. Started learning more about Next.js and started some tutorials. Now, I will keep learning about Next.js before migrating my Facebook Clone to it.
 
 **Thoughts**:
 
 **Link(s) to work**:
 
+### Day 55: August 4th, 2022
+
+**Today's Progress**:
+
+- Did the Next.js tutorial and built a nice and simple blog application.
+
+**Thoughts**:
+
+**Link(s) to work**:
+https://github.com/gefgu/nextjs-blog
+https://nextjs-blog-gefgu.vercel.app/
