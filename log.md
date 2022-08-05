@@ -1774,3 +1774,13 @@ https://github.com/gefgu/blog-author-view
 **Link(s) to work**:
 https://github.com/gefgu/nextjs-blog
 https://nextjs-blog-gefgu.vercel.app/
+
+### Day 56: August 5th, 2022
+
+**Today's Progress**:
+
+- Built the Facebook Authentication with connection to MongoDB for my Facebook Clone.
+
+**Thoughts**:
+
+**Link(s) to work**:
