@@ -1784,3 +1784,13 @@ https://nextjs-blog-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 57: August 7th, 2022
+
+**Today's Progress**:
+
+- Kept working on my Facebook Clone.
+
+**Thoughts**:
+
+**Link(s) to work**:
