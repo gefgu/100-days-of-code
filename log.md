@@ -1794,3 +1794,13 @@ https://nextjs-blog-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 58: August 8th, 2022
+
+**Today's Progress**:
+
+- Started working more on the front-end of my Facebook Clone. Built the authentication page and half finished the dashboard page.
+
+**Thoughts**:
+
+**Link(s) to work**:
