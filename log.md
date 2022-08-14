@@ -1825,11 +1825,41 @@ https://nextjs-blog-gefgu.vercel.app/
 
 **Link(s) to work**:
 
-### Day 61: August 10th, 2022
+### Day 61: August 11th, 2022
 
 **Today's Progress**:
 
 - Kept working on my Facebook Clone. Now, users can write comments.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 62: August 12th, 2022
+
+**Today's Progress**:
+
+- Kept working on my Facebook Clone.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 63: August 13th, 2022
+
+**Today's Progress**:
+
+- Kept working on my Facebook Clone.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 64: August 14th, 2022
+
+**Today's Progress**:
+
+- Kept working on my Facebook Clone.
 
 **Thoughts**:
 
