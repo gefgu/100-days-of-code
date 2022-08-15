@@ -1864,3 +1864,13 @@ https://nextjs-blog-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 65: August 15th, 2022
+
+**Today's Progress**:
+
+- Kept working on my Facebook Clone. Now, there is a guest sign-in and users can make frienship requests and become friends.
+
+**Thoughts**:
+
+**Link(s) to work**:
