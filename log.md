@@ -1869,7 +1869,18 @@ https://nextjs-blog-gefgu.vercel.app/
 
 **Today's Progress**:
 
-- Kept working on my Facebook Clone. Now, there is a guest sign-in and users can make frienship requests and become friends.
+- Kept working on my Facebook Clone. Now, there is a guest sign-in and users can make friendship requests and become friends.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 66: August 16th, 2022
+
+**Today's Progress**:
+
+- Did my second open source contribution: Fixed some styling problems for the @mat
+- Polished the friendship logic of my Facebook Clone.
 
 **Thoughts**:
 
