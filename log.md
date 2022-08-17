@@ -1879,8 +1879,19 @@ https://nextjs-blog-gefgu.vercel.app/
 
 **Today's Progress**:
 
-- Did my second open source contribution: Fixed some styling problems for the @mat
+- Did my second open source contribution: Fixed some styling problems for the @matrixdotorg.
 - Polished the friendship logic of my Facebook Clone.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 67: August 17th, 2022
+
+**Today's Progress**:
+
+- Built the user page in my Facebook Clone. 
+- Did a pull request in another open source issue. Hoping to get it approved!
 
 **Thoughts**:
 
