@@ -1896,3 +1896,14 @@ https://nextjs-blog-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 68: August 18th, 2022
+
+**Today's Progress**:
+
+- Added some functionalities in the navbar of Facebook Clone and implemented the deletion of posts.
+- Worked some more in Open Source. Waiting the Design team approval to work in some issues.
+
+**Thoughts**:
+
+**Link(s) to work**:
