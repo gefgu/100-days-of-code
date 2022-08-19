@@ -1907,3 +1907,13 @@ https://nextjs-blog-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 69: August 18th, 2022
+
+**Today's Progress**:
+
+- Improved the friendship making of my Facebook Clone. Now, users have a better experience when rejecting requests and friendships.
+
+**Thoughts**:
+
+**Link(s) to work**:
