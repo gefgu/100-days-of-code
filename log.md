@@ -1917,3 +1917,37 @@ https://nextjs-blog-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 70: August 19th, 2022
+
+**Today's Progress**:
+
+- Worked on the Facebook Clone.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 71: August 21th, 2022
+
+**Today's Progress**:
+
+- Finished my Facebook Clone
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://odinbook.vercel.app/
+https://github.com/gefgu/odinbook
+
+### Day 72: August 22th, 2022
+
+**Today's Progress**:
+
+- Worked on some Recursion problems for interview prep.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
