@@ -1951,3 +1951,15 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 73: August 23th, 2022
+
+**Today's Progress**:
+
+- Learned and implemented by myself the merge sort algorithm and started learning about commom data structures. 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
+
