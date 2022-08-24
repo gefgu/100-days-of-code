@@ -1955,7 +1955,17 @@ https://github.com/gefgu/odinbook
 
 **Today's Progress**:
 
-- Learned and implemented by myself the merge sort algorithm and started learning about commom data structures. 
+- Learned and implemented by myself the merge sort algorithm and started learning about common data structures. 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 74: August 24th, 2022
+
+**Today's Progress**:
+
+- Learned about stack, queue, breadth-first-search, depth-first-search and when to use it. Going to work with them in some projects in the following days.
 
 **Thoughts**:
 
