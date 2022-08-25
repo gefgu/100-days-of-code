@@ -1971,5 +1971,16 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 75: August 25th, 2022
+
+**Today's Progress**:
+
+- Worked through some Linked List problems.
+- Did an open source contribution.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
 
