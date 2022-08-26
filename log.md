@@ -1982,5 +1982,16 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 76: August 26th, 2022
+
+**Today's Progress**:
+
+- Worked through some Linked List problems.
+- Learned about Storybook using some tutorials to work in some open @grafana issues. 
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
 
