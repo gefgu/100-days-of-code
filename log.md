@@ -1993,12 +1993,23 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
-### Day 76: August 28th, 2022
+### Day 77: August 28th, 2022
 
 **Today's Progress**:
 
 - Finished TOP's Linked List project.
 - Worked in my biggest open-source contribution until now, using Typescript(learned a little about it along the way) and Storybook. Hoping to get it approved!
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+### Day 78: August 29th, 2022
+
+**Today's Progress**:
+
+- Worked on TOP's Binary Search Trees challenge.
+- Started another open-source contribution.
 
 **Thoughts**:
 
