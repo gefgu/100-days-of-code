@@ -2015,5 +2015,15 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 79: August 30th, 2022
+
+**Today's Progress**:
+
+- Worked through 2 open-source contributions to grafana.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
 
