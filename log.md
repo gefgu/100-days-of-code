@@ -2025,5 +2025,16 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 80: August 31th, 2022
+
+**Today's Progress**:
+
+- Got my open-source contributions to grafana approved! And made one more...
+- Worked on TOP's Binary Search Trees challenge.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
 
