@@ -2036,7 +2036,7 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
-### Day 81: August 31th, 2022
+### Day 81: September 1st, 2022
 
 **Today's Progress**:
 
@@ -2046,5 +2046,14 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 82: September 2nd, 2022
 
+**Today's Progress**:
+
+- Worked on another open-source contribution using Storybook.
+- Finished TOP's binary search tree project. https://github.com/gefgu/balanced-bst
+
+**Thoughts**:
+
+**Link(s) to work**:
 
