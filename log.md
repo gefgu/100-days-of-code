@@ -2057,3 +2057,13 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 82: September 2rd, 2022
+
+**Today's Progress**:
+
+- Build TOP's knight travails project. https://github.com/gefgu/knights-travails
+
+**Thoughts**:
+
+**Link(s) to work**:
+
