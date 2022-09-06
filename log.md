@@ -2077,3 +2077,14 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 85: September 5th, 2022
+
+**Today's Progress**:
+
+- Worked through 2 Storybook open-source contributions.
+- Started a documentation open-source contribution.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
