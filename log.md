@@ -2088,3 +2088,15 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 86: September 7th, 2022
+
+**Today's Progress**:
+
+- Implemented the required behavior for a form component in @grafana. 
+- Fixed some links and headings in the documentation of @medusa.
+- Started learning about cypress for another open-source contribution tomorrow.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
