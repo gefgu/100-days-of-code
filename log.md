@@ -2100,3 +2100,16 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 87: September 8th, 2022
+
+**Today's Progress**:
+
+- Built my first cypress test for a feature I implemented some days ago in open-source.
+- Learned about docker.
+
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+
