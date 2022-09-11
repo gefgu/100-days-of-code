@@ -2122,4 +2122,14 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 89: September 9th, 2022
+
+**Today's Progress**:
+
+- Open Source Contribution of the Day: Fixed a use case for an authentication API call.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
 
