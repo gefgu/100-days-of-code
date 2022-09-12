@@ -2132,4 +2132,12 @@ https://github.com/gefgu/odinbook
 
 **Link(s) to work**:
 
+### Day 90: September 10th, 2022
 
+**Today's Progress**:
+
+- After some struggles with docker and low performance, I've decided to change from a VirtualBox to a dual-boot setup. It was harder than expected and I hope to get it done by tomorrow and get started in some exciting open-source contributions.
+
+**Thoughts**:
+
+**Link(s) to work**:
