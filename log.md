@@ -2141,3 +2141,14 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 91: September 11th, 2022
+
+**Today's Progress**:
+
+- Finished my dual-boot setup.
+- Read the TypeScript handbook for a JS to TS conversion issue I'm hoping to work on tomorrow.
+
+**Thoughts**:
+
+**Link(s) to work**:
