@@ -2152,3 +2152,13 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 92: September 12th, 2022
+
+**Today's Progress**:
+
+- Started converting some JavaScript files to TypeScript in open-source.
+
+**Thoughts**:
+
+**Link(s) to work**:
