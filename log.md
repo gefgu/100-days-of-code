@@ -2157,7 +2157,7 @@ https://github.com/gefgu/odinbook
 
 **Today's Progress**:
 
-- Started converting some JavaScript files to TypeScript in open-source.
+- Converted several JavaScript React Class Components into TypeScript React Function Components. It was a great review of React and made me fall in love with TypeScript. 
 
 **Thoughts**:
 
