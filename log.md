@@ -2162,3 +2162,14 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 93: September 16th, 2022
+
+**Today's Progress**:
+
+- Learned about forwardRef in React.
+- Did a pull request in an open-source project adding forwardRef to a component.
+
+**Thoughts**:
+
+**Link(s) to work**:
