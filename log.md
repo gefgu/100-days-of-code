@@ -2173,3 +2173,16 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 94: September 17th, 2022
+
+**Today's Progress**:
+
+- Fixed my pull request of the conversion of JavaScript React Class Components into TypeScript React Function Components.
+- Learned it is always a good idea to do all the steps in the contribution guidelines, even if it doesn't seem necessary.
+- Did another conversion to TS.
+- Started learning about SQL for an survey app.
+
+**Thoughts**:
+
+**Link(s) to work**:
