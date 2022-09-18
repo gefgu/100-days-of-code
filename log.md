@@ -2186,3 +2186,15 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 95: September 18th, 2022
+
+**Today's Progress**:
+
+- Did some SQL practice in Khan Academy.
+- Built a Advice Generator app following the FrontEnd Mentor challenge. I used Next.js, SWR and Framer Motion.
+- Framer Motion is amazing! With it, you can easily add animations.
+
+**Thoughts**:
+
+**Link(s) to work**:
