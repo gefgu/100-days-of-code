@@ -2198,3 +2198,14 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 96: September 19th, 2022
+
+**Today's Progress**:
+
+- Started working on a Rock Paper Scissors Game using Next.js and Framer Motion.
+- Fixed 2 pull requests based on the requests of the reviewers. 
+
+**Thoughts**:
+
+**Link(s) to work**:
