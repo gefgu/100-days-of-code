@@ -2220,3 +2220,15 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 98: September 21th, 2022
+
+**Today's Progress**:
+
+- Got added to a team in an open-source project.
+- Fixed a pull request about forwardRef in React.
+- Started working on a breaking change in the project related to the search components.
+
+**Thoughts**:
+
+**Link(s) to work**:
