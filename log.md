@@ -2232,3 +2232,16 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 99: September 22th, 2022
+
+**Today's Progress**:
+
+- Did several open-source contributions:
+- Fixed a typo in the link of a documentation of patternfly.
+- Fixed a API call in medusa.
+- Changed the implementation of a component.
+
+**Thoughts**:
+
+**Link(s) to work**:
