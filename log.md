@@ -2245,3 +2245,13 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 100: September 23th, 2022
+
+**Today's Progress**:
+
+- Got started on a open-source repo to implement algorithms in TypeScript. If everything goes well, it will be a great way to improve my TypeScript skills and learn more about algorithms for interview prep.
+
+**Thoughts**:
+
+**Link(s) to work**:
