@@ -2255,3 +2255,17 @@ https://github.com/gefgu/odinbook
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 1: September 24th, 2022
+
+**Today's Progress**:
+
+- Finished my Rock Paper Scissors game using Next.Js and Framer Motion.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://github.com/gefgu/rock-paper-scissors
+
+https://rock-paper-scissors-gefgu.vercel.app/
