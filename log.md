@@ -2269,3 +2269,14 @@ https://github.com/gefgu/odinbook
 https://github.com/gefgu/rock-paper-scissors
 
 https://rock-paper-scissors-gefgu.vercel.app/
+
+### Day 2: September 25th, 2022
+
+**Today's Progress**:
+
+- Wrote some guidelines regarding semantic commit messages in open-source.
+- Started a landing page project using Tailwind CSS and Astro.
+
+**Thoughts**:
+
+**Link(s) to work**:
