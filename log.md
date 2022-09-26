@@ -2280,3 +2280,13 @@ https://rock-paper-scissors-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 3: September 26th, 2022
+
+**Today's Progress**:
+
+- Almost finished my landing page project using Tailwind CSS and Astro.
+
+**Thoughts**:
+
+**Link(s) to work**:
