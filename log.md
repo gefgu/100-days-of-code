@@ -2300,3 +2300,13 @@ https://rock-paper-scissors-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 5: September 28th, 2022
+
+**Today's Progress**:
+
+- Cleaned some of my projects and applied for a part-time front-end React job.
+
+**Thoughts**:
+
+**Link(s) to work**:
