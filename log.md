@@ -2290,3 +2290,13 @@ https://rock-paper-scissors-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 4: September 27th, 2022
+
+**Today's Progress**:
+
+- Did a contribution to an open-source project writing its contributing guidelines. In the process, received a huge amount of feedback. I learned a lot today! 
+
+**Thoughts**:
+
+**Link(s) to work**:
