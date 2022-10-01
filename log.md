@@ -2310,3 +2310,13 @@ https://rock-paper-scissors-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 6: September 30th, 2022
+
+**Today's Progress**:
+
+- Added a danger state to the menu item component in patternfly-react.
+
+**Thoughts**:
+
+**Link(s) to work**:
