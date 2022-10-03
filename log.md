@@ -2320,3 +2320,13 @@ https://rock-paper-scissors-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 7: October 1st, 2022
+
+**Today's Progress**:
+
+- Fixed a pagination filter and removed deprecated props at @patternfly
+
+**Thoughts**:
+
+**Link(s) to work**:
