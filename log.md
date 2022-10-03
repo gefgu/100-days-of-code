@@ -2330,3 +2330,14 @@ https://rock-paper-scissors-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 8: October 2nd, 2022
+
+**Today's Progress**:
+
+- Add Insertion Sort algorithm TypeScript implementation to @The_Algorithms
+- Add OUIA support to a component in @patternfly
+
+**Thoughts**:
+
+**Link(s) to work**:
