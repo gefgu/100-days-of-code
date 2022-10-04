@@ -2341,3 +2341,14 @@ https://rock-paper-scissors-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 9: October 3rd, 2022
+
+**Today's Progress**:
+
+- Fixed an bug in the FAQ section of element-web.
+- Started working through supabase quickstart guide.
+
+**Thoughts**:
+
+**Link(s) to work**:
