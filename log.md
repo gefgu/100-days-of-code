@@ -2352,3 +2352,15 @@ https://rock-paper-scissors-gefgu.vercel.app/
 **Thoughts**:
 
 **Link(s) to work**:
+
+### Day 10: October 4th, 2022
+
+**Today's Progress**:
+
+- Finished the supabase quickstart tutorial. It is truly amazing. It is the easiest to use back-end I've already worked with.
+
+**Thoughts**:
+
+**Link(s) to work**:
+
+https://supabase-quickstart.vercel.app/
