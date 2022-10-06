@@ -2363,4 +2363,13 @@ https://rock-paper-scissors-gefgu.vercel.app/
 
 **Link(s) to work**:
 
-https://supabase-quickstart.vercel.app/
+### Day 11: October 5th, 2022
+
+**Today's Progress**:
+
+- Helped to review a PR in @patternfly.
+- Started fixing the export of CSV in @supabase.
+
+**Thoughts**:
+
+**Link(s) to work**:
